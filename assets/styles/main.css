@@ -60,17 +60,16 @@ p {
 
 .section-headings .subheading {
   display: inline-block;
-  margin-bottom: 3.2rem;
-  font-size: 3.6rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.6rem;
   font-weight: 600;
   letter-spacing: 0.05rem;
-  line-height: 3.8rem;
+  line-height: 1.8rem;
   background: -webkit-gradient(linear, left top, right top, from(#1c99fe), color-stop(50%, #7644ff), to(#fd4766));
   background: linear-gradient(to right, #1c99fe 0%, #7644ff 50%, #fd4766 100%);
   -webkit-background-clip: text;
   color: transparent;
 }
-
 
 .section-headings .secondary-heading {
   margin-bottom: 2rem;
@@ -79,13 +78,7 @@ p {
   line-height: 6.2rem;
   color: #1f1f25;
 }
-.section-headings .secondaryy-heading {
-  margin-bottom: 2rem;
-  font-size: 4rem;
-  font-weight: 720;
-  line-height: 4.2rem;
-  color: #1f1f25;
-}
+
 .section-headings .text-heading {
   font-size: 1.8rem;
   font-weight: 300;
@@ -107,20 +100,7 @@ p {
   -webkit-transition: all 0.7s;
   transition: all 0.7s;
 }
-.btn-cuustom {
-  display: inline-block;
-  padding: 1.6rem 4rem;
-  background-color: transparent;
-  font-size: 1.6rem;
-  font-weight: 500;
-  text-transform: uppercase;
-  color: #000;
-  letter-spacing: 0.2rem;
-  border: 0.2rem solid rgba(255, 255, 255, 0.2);
-  border-radius: 99.9rem;
-  -webkit-transition: all 0.7s;
-  transition: all 0.7s;
-}
+
 .btn-custom:hover {
   background-color: #fd4766;
   border: 0.2rem solid #fd4766;
